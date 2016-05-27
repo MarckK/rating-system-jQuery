@@ -1,4 +1,4 @@
 # rating-system-jQuery
 A rating system built using jQuery methods and selectors. 
 
-indexDemo3 is the final version of this rating system.
+This can be viewed at: http://marckk.github.io/rating-system-jQuery/
